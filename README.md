@@ -19,7 +19,7 @@ A comprehensive web application designed to support the development of ballroom 
 2. **Mobile view for registration:** ![dclinkjpg2](https://github.com/user-attachments/assets/577fcafe-6397-4895-870f-b97697ff856f)
 3. **Mobile view home page:** ![dclinkjpg3](https://github.com/user-attachments/assets/feed4eb0-6ea9-452a-902c-56dc8d46056d)
 4. **My tournaments view:** ![dclinkjpg4](https://github.com/user-attachments/assets/11549734-4aba-48d0-8e70-f69455a50dae)
-5. **Part of search form:** ![dclinkjpg5](https://github.com/user-attachments/assets/928682c8-916a-4f5a-b7f5-a184606f0782)
+5. **Part of search form mobile view:** ![dclinkjpg5](https://github.com/user-attachments/assets/928682c8-916a-4f5a-b7f5-a184606f0782)
 6. **Admin dashboard view:** ![dclinkadmin](https://github.com/user-attachments/assets/00ba3778-30e3-4a50-b977-91a91f2c2acc)
 
 
