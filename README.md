@@ -6,10 +6,10 @@
 ## 🔒 Project Status
 This is a commercial project currently under active development. The source code is **closed** due to intellectual property protection. This repository serves as a technical overview and portfolio showcase.
 
-## 🎯 Overview
+## Overview
 A comprehensive web application designed to support the development of ballroom dance couples. The system manages competition results, and partner matching logic.
 
-## 🛠 Architecture & Tech Stack
+## Architecture & Tech Stack
 * **Backend:** Python 3.10 + Django 5.0(Class-Based Views, ORM).
 * **Database:** SQLite3 (Complex relationship modeling).
 * **Frontend:** HTML5, CSS3, JavaScript (Dynamic forms).
