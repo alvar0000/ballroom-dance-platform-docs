@@ -57,3 +57,6 @@ A comprehensive web application designed to support the development of ballroom 
 * Advanced user data model
 * Tournament results module
 * User profile management
+
+## Autor
+Krzysztof Baranowski
